@@ -28,7 +28,7 @@ body {
 
 .menu-link:hover,
 .menu-link:focus {
-    color: tomato;
+    color: #404BBF;
 }
 
 /* contacts */
@@ -36,10 +36,17 @@ body {
 .contacts-list {
     font-size: 16px;
     line-height: 1.5;
-    color: rgba(67, 68, 85, 1);
+    color: #434455;
     text-decoration: none;
     list-style: none;
 }
+.mail-link:hover, .mail-link:focus {
+    color: #404BBF;
+}
+.tell-link:hover, .tell-link.focus {
+    color: #404BBF;
+}
+
 
 /* button */
 .order-btn {
@@ -63,7 +70,7 @@ body {
 
 .order-btn:hover,
 .order-btn:focus {
-    background-color: tomato;
+    background: #404BBF;
 }
 
 /*  section advantages */
