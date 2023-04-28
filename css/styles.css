@@ -175,24 +175,36 @@ body {
 
 /* portfolio */
 
-.logo-portfolio {
-    font-family: var(--secondary-font-family);
-    font-weight: 800;
-    font-size: 18px;
-    line-height: 1.17;
-    letter-spacing: 0.03em;
-    text-transform: uppercase;
+/* buttons */
+.scroll-btn {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
     color: #4d5ae5;
+    background-color: #F4F4FD;
+
+    cursor: pointer;
 }
 
-.logo-portfolio-end {
+.scoll-btn:hover,
+.scroll-btn:focus {
+    color: #FFFFFF;
+    background-color: #404BBF
+}
+
+/* pictures*/
+.card-title {
+    font-weight: 500 ;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
     color: #2e2f42;
 }
-.page-nav { 
-font-weight: 500;
-color: #2e2f42 ;
-}
-.page-nav:hover,
-.page-nav:focus {
-    color: #404BBF;
+.card-category {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
 }
