@@ -118,7 +118,7 @@ body {
 
 /*  section advantages */
 
-.advantages {
+.names {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -146,7 +146,21 @@ body {
     text-transform: capitalize;
     color: #2E2F42;
 }
+/* our team */
 
+.team {
+    background-color: #FFFFFF;
+}
+.team-title {
+    font-size: 36px;
+    line-height: 1.11;
+    letter-spacing: 0.02em;
+    text-align: center;
+}
+.members {
+    background-color: #F4F4FD ;
+    
+}
 /* footer */
 .main-footer {
     background-color: #2e2f42;
