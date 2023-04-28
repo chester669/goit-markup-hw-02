@@ -88,7 +88,7 @@ body {
     color: #ffffff
 }
 
-.hero-title {
+.hero_title {
     font-weight: 700;
     font-size: 56px;
     line-height: 1.07;
@@ -145,4 +145,23 @@ body {
     text-align: center;
     text-transform: capitalize;
     color: #2E2F42;
+}
+
+/* footer */
+.main-footer {
+    background-color: #2e2f42;
+}
+
+.footer-logo {
+    font-family: var(--secondary-font-family);
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4d5ae5;
+}
+
+.footer-logo-end {
+    color: #2e2f42;
 }
