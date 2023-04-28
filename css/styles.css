@@ -188,7 +188,7 @@ body {
     cursor: pointer;
 }
 
-.scoll-btn:hover,
+.scroll-btn:hover,
 .scroll-btn:focus {
     color: #FFFFFF;
     background-color: #404BBF
