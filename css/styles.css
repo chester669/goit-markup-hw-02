@@ -161,12 +161,14 @@ body {
     text-transform: uppercase;
     color: #4d5ae5;
 }
-.footer-description{
+
+.footer-description {
     font-size: 16px;
-line-height: 1.5;
-letter-spacing: 0.02em;
-color: #F4F4FD; }
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #F4F4FD;
+}
 
 .footer-logo-end {
-    color:  #f4f4fd
+    color: #f4f4fd
 }
